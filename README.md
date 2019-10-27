@@ -8,6 +8,6 @@ Predict future human motion base on learned human motion pattern, estimate the c
 
 visual servo control with obstacle avoidance
 ---------------------------------------------
-![visual servo control with obstacle avoidanc](https://github.com/william-in-kit/opencv-robot/blob/master/visual_servo_control.gif)
+![visual servo control with obstacle avoidanc](https://github.com/william-in-kit/human-motion-prediction/blob/master/prediction.gif)
 
 
